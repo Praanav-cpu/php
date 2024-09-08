@@ -11,11 +11,11 @@ echo "Age: " . $age . "<br>";
 echo "Height: " . $height . " feet <br>";
 
 // Update variable
-$name = "Alice";
-
+$name = "Aditya";
+$age = 19;
 // Print updated variable
 echo "Updated Name: " . $name . "<br>";
-
+echo "Updated age:" . $age . "<br>";
 // Variable operations
 $width = 5;
 $length = 10;
