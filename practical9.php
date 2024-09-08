@@ -1,7 +1,7 @@
 <?php
 
 // Define a variable
-$num = 5;
+$num = 15;
 
 // Pre-increment (++$num)
 echo "Pre-increment: " . ++$num . "<br>"; // Increments $num by 1 and then returns the incremented value
