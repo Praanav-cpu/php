@@ -1,8 +1,8 @@
 <?php
 
 // Define variables for comparison
-$num1 = 10;
-$num2 = 5;
+$num1 = 18;
+$num2 = 7;
 
 // Equal to (==)
 if ($num1 == $num2) {
